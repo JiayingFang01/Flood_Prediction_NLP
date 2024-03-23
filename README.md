@@ -1,4 +1,4 @@
-# Flood_Prediction_NLP
+# Use NLP for Flood Detection
 
 This collaborative project was conducted as part of the Data Science and Public Policy class at Columbia University. Our analysis heavily relied on datasets and project materials provided by Max Mauerman and Elizabeth Tellman.
 
